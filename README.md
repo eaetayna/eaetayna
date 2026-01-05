@@ -33,6 +33,21 @@
 
 <hr>
 
+
+</div>
+
+---
+
+## 📈 **Contributions**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fenri-Lunaedge/Fenri-Lunaedge/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 ### 📂 Projects
 
 <table>
