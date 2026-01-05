@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="right">
+  <img width="200" height="200" alt="myavatartay" src="https://github.com/user-attachments/assets/8add9ec3-6a10-4a81-b00e-528a9da527f9" />
+</p>
 
-<!--
-**eaetayna/eaetayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello, I'm Tayná Alves 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: Machine/Deep Learning
+- 📫 How to reach me: taynaalves.dev@gmail.com / https://www.linkedin.com/in/taynaalves-dev/
+- 😄 Pronouns: She/Her
+
+
+
