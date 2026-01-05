@@ -6,15 +6,14 @@
 <h1 align="left">Hello, I'm Tayná Alves 👋</h1>
 <h3 align="left">Business Intelligence & Data Analyst</h3>
 
-<p align="left">
-  👩‍💻 Data & BI Analyst | São Paulo, Brazil 🇧🇷<br/>
-  🎓 Finance grad | Postgrad in Data Science & Big Data<br/>
-  💻 Passionate about Python, SQL, Power BI, Tableau, Looker & RPA<br/>
-  📊 Sharing my projects and creations focused on data analysis<br/>
-  🌱 Currently learning: Machine/Deep Learning<br/>
-  📫 How to reach me: <a href="mailto:taynaalves.dev@gmail.com">taynaalves.dev@gmail.com</a> | <a href="https://www.linkedin.com/in/taynaalves-dev/">LinkedIn</a><br/>
-  😄 Pronouns: She/Her
-</p>
+👩‍💻 Data & BI Analyst | São Paulo, Brazil 🇧🇷  
+🎓 Finance grad | Postgrad in Data Science & Big Data  
+💻 Passionate about Python, SQL, Power BI, Tableau, Looker & RPA  
+📊 Sharing my projects and creations focused on data analysis  
+🌱 Currently learning: Machine/Deep Learning  
+📫 How to reach me: [Email](mailto:taynaalves.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/taynaalves-dev/)  
+😄 Pronouns: She/Her
+
 
 <hr>
 
@@ -36,17 +35,7 @@
 
 </div>
 
----
 
-## 📈 **Contributions**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Fenri-Lunaedge/Fenri-Lunaedge/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ### 📂 Projects
 
